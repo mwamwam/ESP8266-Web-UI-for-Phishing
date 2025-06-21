@@ -1,6 +1,7 @@
 # ESP8266 Captive Portal - Simulated Login Page (For Educational Use Only)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![ESP8266](https://img.shields.io/badge/Board-ESP8266-blue)
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/mwamwam)
 ## Overview
 
 This project demonstrates how an ESP8266 microcontroller can be used to create a WiFi access point with a captive portal that redirects connected users to a simulated login page. The login interface mimics that of a popular social media platform (e.g., Facebook) for the purpose of raising awareness about phishing attacks.
