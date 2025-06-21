@@ -48,6 +48,7 @@ This project is strictly for:
 - Security awareness training
 - Ethical hacking demonstrations in controlled environments
 - Created by: Hanz
+
 **Do not** use this project for unauthorized data collection or to deceive others. Any misuse may violate local laws or terms of service and may result in disciplinary, legal, or account action.
 
 ## Screenshots
